@@ -12,6 +12,15 @@ div.box {
 	margin:auto;
 	overflow:auto;
 }
+
+div.box2 {
+	width:88px;
+	background-color:#b0c4de;
+	border:1px solid black;
+	padding:5px 5px 5px;
+	margin:auto;
+	overflow:auto;
+}
 span {
 	clear:both;
 	display:block;

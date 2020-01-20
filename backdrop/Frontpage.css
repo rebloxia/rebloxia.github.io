@@ -1,12 +1,12 @@
 ﻿#FriendliestFolkPane
 {
-	border-color: #000000;
-	border-style: solid;
-	border-width: 1px;
-	height: 184px;
-	margin-top: 10px;
-	overflow: auto;
-	width: 770px;
+    border-color: #000000;
+    border-style: solid;
+    border-width: 1px;
+    height: 304px;
+    margin-top: 10px;
+    overflow: auto;
+    width: 770px;
 }
 
 #FriendliestFolk h4
